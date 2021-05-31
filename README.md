@@ -1,6 +1,6 @@
 # Newsletter-SignUp
 
-Using [Mailchimp Server REST API](https://mailchimp.com/developer/marketing/docs/fundamentals/) hosted a [Newsletter SignUp](stormy-tundra-80264.herokuapp.com) page on [Heroku](http://www.heroku.com) platform.
+Using [Mailchimp Server REST API](https://mailchimp.com/developer/marketing/docs/fundamentals/) hosted a [Newsletter SignUp](https://stormy-tundra-80264.herokuapp.com/) page on [Heroku](http://www.heroku.com) platform.
 
 
 ### Technologies Used:
